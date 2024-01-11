@@ -14,7 +14,7 @@ I'm Rakshith Kalmadi, a passionate software developer and computer science engin
 
 ## Check Out My Work
 
-- 🔗 [Portfolio](https://site.rakshithkalmadi.me/)
+- 🔗 [Portfolio](https://www.rakshithkalmadi.me/)
 - 📝 [Blog](https://towardstechnoblogs.blogspot.com/)
 - 📺 [YouTube](https://www.youtube.com/channel/UCKx-2zSHoARb5PRV3JJxbZQ)
 - 🖥 [GitHub Repositories](https://github.com/rakshithkalmadi)
