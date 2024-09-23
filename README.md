@@ -24,21 +24,13 @@ I'm Rakshith Kalmadi, a passionate software developer and computer science engin
 
 ![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshithkalmadi&show_icons=true&theme=radical)
 
-## Top Languages
+## GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithkalmadi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakshithkalmadi&theme=radical)
 
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakshithkalmadi&theme=radical)
-
-## Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rakshithkalmadi&theme=redical)
-
-## GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakshithkalmadi&theme=radical)
 
 ---
 
