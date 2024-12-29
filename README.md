@@ -2,6 +2,8 @@
 
 I'm Rakshith Kalmadi, a passionate software developer and computer science engineering student at MIT, Manipal.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshithkalmadi&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithkalmadi" /> </p>
+
 ## About Me
 
 - 🌱 I'm currently learning and exploring various technologies.
